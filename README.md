@@ -1,0 +1,2 @@
+# quantumVaria
+various scripts 
